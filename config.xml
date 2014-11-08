@@ -19,13 +19,13 @@
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.sposausanze"
+        id        = "com.mieleapi"
         version   = "1.0.0">
 
-    <name>Sposa Usanze e Tradizioni</name>
+    <name>Il Miele</name>
 
     <description>
-	Ovunque in Italia sono tantissime le usanze legate al giorno più bello della tua vita, quelle che caratterizzano ogni matrimonio e che ogni sposa cerca di rispettare sono quelle che portano bene...
+	Benvenuto nella nostra nuova App! Ovunque in Italia sono tantissime tipologie di miele a seconda delle tradizioni e delle tipicità naturali locali, scoprile con noi...
     </description>
 
     <author href="http://www.sigitechnologies.com" email="sigitechnologies@gmail.com">
